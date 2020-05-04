@@ -1,0 +1,28 @@
+/*
+Theme Name: Woocommerce TripContact
+Theme URI: trip-contact.com
+Author: Karim benabdallah
+Description: 
+Version: 1.0
+Text Domain: woocommerce101
+
+@font-face {
+    font-family: "NexaBold";
+   
+    src: 
+    url("./fonts/NexaBold.otf") format("opentype");
+
+    }
+    
+*/
+@font-face {
+    font-family: "NexaLight";
+    
+    src: 
+    url("src/fonts/NexaLight.otf") format("opentype");
+
+    }
+
+body{
+    font-family: 'NexaLight', sans-serif;
+}
